@@ -7,7 +7,7 @@
 
 ## **LCD DISPLAY**
 - Startup Energia. This will open a new sketch. Copy "LCD_SCREEN_EXAMPLE.c" and "LCD_SCREEN_EXAMPLE.h" to the sketch.
-- Select the appropriate board and port from the tools tab. Click on upload.
+- Select the appropriate board and port from the tools tab. Click on upload. The video below displays the output of the above code:
 
 [![IMAGE DISPLAY ON A 128x128 TFT LCD](http://img.youtube.com/vi/xQYOcPorGW0/0.jpg)](https://www.youtube.com/watch?v=xQYOcPorGW0 "IMAGE DISPLAY ON A 128x128 TFT LCD")
 
