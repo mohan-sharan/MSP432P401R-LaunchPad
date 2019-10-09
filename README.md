@@ -3,7 +3,7 @@
 - MSP-EXP432P401R LaunchPad -> http://www.ti.com/tool/msp-exp432p401r?jktype=recommendedresults#1
 
 # **_SOFTWARE_**
-- Energia -> http://energia.nu/download/
+- Energia IDE -> http://energia.nu/download/
 
 ## **LCD DISPLAY**
 - Startup Energia. This will open a new sketch. Copy "LCD_SCREEN_EXAMPLE.c" and "LCD_SCREEN_EXAMPLE.h" to the sketch.
