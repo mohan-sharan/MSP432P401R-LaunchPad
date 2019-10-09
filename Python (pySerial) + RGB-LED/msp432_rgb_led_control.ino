@@ -49,7 +49,6 @@ void loop() {
       digitalWrite(LED2, LOW);
       digitalWrite(LED3, HIGH);
     }
-    
     else if (incoming_data == 'm')
     {
       setColor(255, 165, 0); // Orange Color
@@ -61,7 +60,6 @@ void loop() {
       setColor(128, 0, 128); // Purple Color
       delay(1000);
     }
-    
     else if (incoming_data == 'q')
     {
       //LEDs - OFF
