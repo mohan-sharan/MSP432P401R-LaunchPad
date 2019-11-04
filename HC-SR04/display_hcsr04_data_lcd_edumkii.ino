@@ -58,6 +58,7 @@ void loop()
     delay(15);                       
   }
 }
+
 //Ultrasonic sensor
 void ultrasonic_sensor_reading()
 {
