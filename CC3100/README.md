@@ -3,7 +3,7 @@
 ### **_HARDWARE_**
 - TI MSP432P401R LaunchPad -> http://www.ti.com/tool/MSP-EXP432P401R
 - SimpleLink Wi-Fi CC3100 -> http://www.ti.com/tool/CC3100BOOST
-- Resistors, LEDs, Jumper Wires, Breadboard and microUSB Cable
+- Resistors, LEDs, Jumper Wires, Breadboard and Micro USB Cable
 
 ### **_SOFTWARE_**
 - Energia IDE -> http://energia.nu/download/
