@@ -14,8 +14,9 @@ char password[] = "Your network password";
 // MQTTServer to use
 char server[] = "mqtt.eclipse.org";
 /*
-Publically-accessible MQTT brokers:
-https://github.com/mqtt/mqtt.github.io/wiki/public_brokers*/
+Publicly-accessible MQTT brokers:
+https://github.com/mqtt/mqtt.github.io/wiki/public_brokers
+*/
 
 WiFiClient wifiClient;
 PubSubClient client(server, 1883, callback, wifiClient);
