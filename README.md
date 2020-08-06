@@ -11,7 +11,7 @@
 
 [![IMAGE DISPLAY ON A 128x128 TFT LCD](http://img.youtube.com/vi/xQYOcPorGW0/0.jpg)](https://www.youtube.com/watch?v=xQYOcPorGW0 "IMAGE DISPLAY ON A 128x128 TFT LCD")
 
-- This example is a slight modification of the already available built-in LCD examples. To learn more, check out: http://energia.nu/guide/edumkii/edumkii_lcd_screen_logos/  OR
+- This example is a slight modification of the already available built-in LCD examples.
 - Startup Energia -> File -> Examples -> EducationalBP_MKII -> LCD_screen_Logos
 
 - ### **IMAGE FILE -> C-ARRAY**
